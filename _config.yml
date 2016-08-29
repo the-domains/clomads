@@ -1,4 +1,21 @@
+name: clomads
+favicon: null
+layout_spectrum: 0.21388554479926825
 typography_spectrum: 0.38672117702662945
+title: this is a test
+description: Design and shit and fucking whatever fuck.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -10,21 +27,4 @@ color:
   lightness: 0.38815940800122917
   saturation: 0.8804769380949438
   rhythmicContrast: 0.8021690924651921
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.21388554479926825
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: clomads
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: Gay as Fuck
-description: Design and shit and fucking whatever fuck.
 purpose: []
